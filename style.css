@@ -1,0 +1,38 @@
+html {
+    text-align: center;
+    background-image: linear-gradient(cyan, blue);
+}
+
+#game {
+    width: 100%;
+    height: 800px;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+img {
+    transition: .2s ease-in-out;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#chatbot {
+    width: 100%;
+    height: 800px;
+    color: aliceblue;
+}
+
+#App {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+#Art {
+    text-decoration: none;
+    color: aliceblue;
+}
